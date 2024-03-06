@@ -1,0 +1,20 @@
+body {
+    background-color: #66fcf1;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* ===================================
+Calculator Structure
+================= */
+
+#calc {
+    width: 350px;
+    height: 450px;
+    padding: 20px;
+    border-radius: 20px;
+}
